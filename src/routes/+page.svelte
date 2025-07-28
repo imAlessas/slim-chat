@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+
+</script>
+
+
+<main class="bg-gray-950 w-full h-screen justify-center items-center flex">
+
+    <div class="text-white text-4xl animate-bounce">
+        Coming soon
+    </div>
+
+</main>
